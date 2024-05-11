@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ece651.sp22.grp8.risk.client.controller.InitUnitController">
+   <children>
+      <Label fx:id="unitPrompt" layoutX="148.0" layoutY="103.0" prefHeight="98.0" prefWidth="297.0" text="Unit number">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="title" layoutX="225.0" layoutY="24.0" prefHeight="47.0" prefWidth="209.0" text="Initialize Unit" textAlignment="CENTER">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="148.0" layoutY="210.0" prefHeight="34.0" prefWidth="108.0" text="Unit number" AnchorPane.leftAnchor="148.0" AnchorPane.topAnchor="210.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="unitNum" layoutX="280.0" layoutY="214.0" maxWidth="150.0" AnchorPane.leftAnchor="280.0" AnchorPane.topAnchor="214.0" />
+      <Button layoutX="280.0" layoutY="282.0" mnemonicParsing="false" onAction="#setInitUnit" prefWidth="100.0" style="-fx-background-color: green;" text="Done" AnchorPane.topAnchor="282.0" />
+
+   </children>
+</AnchorPane>

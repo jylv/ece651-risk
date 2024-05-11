@@ -1,0 +1,36 @@
+.map5 {
+    -fx-background-image: url("map5.bmp");
+    -fx-background-size: cover;
+}
+
+.playerInfo {
+    -fx-background-color: #32cd32;
+}
+
+.map2 {
+    -fx-background-image: url("map24.bmp");
+    -fx-background-size: cover;
+}
+
+.map3 {
+    -fx-background-image: url("map3.bmp");
+    -fx-background-size: cover;
+}
+
+.upgradeButton {
+    -fx-background-color: olivedrab;
+}
+
+.resourcesDetail {
+    -fx-background-color: lightblue;
+}
+
+.unitsDetail {
+    -fx-background-color: lightsalmon;
+}
+
+.terriorityDetail {
+    -fx-background-color: lightsalmon;
+    -fx-font-size: 13;
+    -fx-font-family: monospace;
+}

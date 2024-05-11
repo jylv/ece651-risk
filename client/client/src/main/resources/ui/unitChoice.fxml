@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<SplitPane dividerPositions="0.8128140703517588" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+  <items>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+         <children>
+            <ChoiceBox layoutX="254.0" layoutY="94.0" prefHeight="33.0" prefWidth="180.0" AnchorPane.leftAnchor="255.0" />
+            <Label layoutX="85.0" layoutY="94.0" prefHeight="33.0" prefWidth="94.0" text="Unit Level" AnchorPane.leftAnchor="85.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="75.0" layoutY="186.0" prefHeight="33.0" prefWidth="94.0" text="Amount" AnchorPane.leftAnchor="85.0">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <TextField layoutX="236.0" layoutY="190.0" AnchorPane.leftAnchor="255.0" />
+         </children></AnchorPane>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+         <children>
+            <Button layoutX="421.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="124.0" style="-fx-background-color: green;" text="Done" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0" />
+            <Button layoutX="80.0" mnemonicParsing="false" prefHeight="71.0" prefWidth="124.0" style="-fx-background-color: red;" text="Back" />
+         </children></AnchorPane>
+  </items>
+</SplitPane>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<FlowPane fx:id="flowPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ece651.sp22.grp8.risk.client.controller.GalleryController">
+   <children>
+      <VBox alignment="CENTER" prefHeight="158.0" prefWidth="160.0" styleClass="card">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Please enter your gameID" wrappingWidth="159.2765350341797" />
+            <TextField fx:id="joinID" alignment="CENTER" prefHeight="0.0" prefWidth="106.0">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </TextField>
+            <Button mnemonicParsing="false" onAction="#joinGameByID" text="Join a game" />
+         </children>
+      </VBox>
+      <VBox alignment="CENTER" prefHeight="158.0" prefWidth="160.0" styleClass="card">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="How many players are there in your game?" wrappingWidth="159.2765350341797" />
+            <ChoiceBox fx:id="choiceBox1" prefHeight="26.0" prefWidth="65.0">
+               <VBox.margin>
+                  <Insets bottom="20.0" top="10.0" />
+               </VBox.margin>
+            </ChoiceBox>
+            <Button mnemonicParsing="false" onAction="#newGame" text="Create a new Game" />
+         </children>
+      </VBox>
+   </children>
+</FlowPane>

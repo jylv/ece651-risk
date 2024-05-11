@@ -1,0 +1,7 @@
+.card {
+    -fx-border-color: lightblue;
+    -fx-border-insets: 0;
+    -fx-border-radius: 5;
+    -fx-border-width: 3;
+    -fx-border-style: dotted;
+}

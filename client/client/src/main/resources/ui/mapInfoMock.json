@@ -1,0 +1,28 @@
+{
+    "player" : {
+        "playerID" : "0",
+        "color": "red",
+        "level" : 3,
+        "resources" : [
+            {
+                "category": "food",
+                "amount": "30"
+            },
+
+            {
+                "category": "technology",
+                "amount": "50"
+            }
+        ],
+        "terriority": [
+            {
+                "name" : "Narnia"
+            }, 
+            {
+                "name" : "Hogwarts"
+            }
+        ]
+    },
+
+    "map" : ""
+}

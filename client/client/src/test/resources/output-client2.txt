@@ -1,0 +1,365 @@
+Hello, welcome to group 8's RISK game!
+Your player ID is 1001.
+Player 1001, Which game would you like to join? Please enter the game ID.
+If you want to create a new game, please enter C(reate).
+How many players are there in your game?
+Please enter a number between 2 to 5 (included)
+Your game ID is 5000.
+Waiting for other players join the game...
+Red player :
+--------------
+0 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+Green player :
+--------------
+0 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+0 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Oz (next to: Midkemia,Scadrial)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+Player Green: you are going to initialize units for all your territories.
+You start with 8 units for all your territories.
+You will initialize units for your territory in order as instructed.
+Please remember do not initialize units more than the remaining units.
+You remain 8 units. How many units do you want to put on Scadrial ?
+Red player :
+--------------
+0 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+Green player :
+--------------
+5 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+0 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Oz (next to: Midkemia,Scadrial)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+You remain 3 units. How many units do you want to put on Midkemia ?
+Red player :
+--------------
+0 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+Green player :
+--------------
+5 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+3 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Oz (next to: Midkemia,Scadrial)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+Wait for other players...
+Red player :
+--------------
+8 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+Green player :
+--------------
+5 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+3 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Oz (next to: Midkemia,Scadrial)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only attack directly adjacent territories.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to attack.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+8 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+3 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Oz (next to: Midkemia,Scadrial)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+In this turn, you have been:
+Attack Mordor with 3 units.
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only attack directly adjacent territories.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to attack.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+8 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+Green player :
+--------------
+0 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+3 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Oz (next to: Midkemia,Scadrial)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+In this turn, you have been:
+Attack Mordor with 3 units.
+Attack Hogwarts with 2 units.
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+Waiting for other players place action orders...
+*************************
+In last turn, you got Mordor, Hogwarts.
+*************************
+Red player :
+--------------
+9 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+1 unites in Narnia (next to: Elantris,Midkemia)
+Green player :
+--------------
+1 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+4 unites in Mordor (next to: Scadrial,Hogwarts)
+3 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+4 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+1 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+1 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only attack directly adjacent territories.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to attack.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+9 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+1 unites in Narnia (next to: Elantris,Midkemia)
+Green player :
+--------------
+1 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+4 unites in Mordor (next to: Scadrial,Hogwarts)
+3 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+0 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+1 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+1 unites in Oz (next to: Midkemia,Scadrial)
+In this turn, you have been:
+Attack Narnia with 4 units.
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+Waiting for other players place action orders...
+*************************
+In last turn, you got Narnia.
+*************************
+Red player :
+--------------
+11 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+5 unites in Mordor (next to: Scadrial,Hogwarts)
+4 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+1 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+2 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+5 unites in Narnia (next to: Elantris,Midkemia)
+2 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only move between your own territories. The move path must be form by adjacent territories owned by yourself.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to move.
+The Unit is invalid: it should be a number.
+Please enter the number of units you want to move.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+11 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+4 unites in Mordor (next to: Scadrial,Hogwarts)
+4 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+2 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+2 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+5 unites in Narnia (next to: Elantris,Midkemia)
+2 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only move between your own territories. The move path must be form by adjacent territories owned by yourself.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to move.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+11 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+4 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+6 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+2 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+5 unites in Narnia (next to: Elantris,Midkemia)
+2 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only move between your own territories. The move path must be form by adjacent territories owned by yourself.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to move.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+11 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+10 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+2 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+5 unites in Narnia (next to: Elantris,Midkemia)
+2 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only move between your own territories. The move path must be form by adjacent territories owned by yourself.
+Please enter the original territory (letter case is no matter).
+Invalid Territory: please enter a valid territory on the map.
+Please enter the number of units you want to move.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+11 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+15 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+2 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+2 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only attack directly adjacent territories.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to attack.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+11 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+2 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+0 unites in Mordor (next to: Scadrial,Hogwarts)
+0 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+0 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+2 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+0 unites in Narnia (next to: Elantris,Midkemia)
+2 unites in Oz (next to: Midkemia,Scadrial)
+In this turn, you have been:
+Attack Elantris with 15 units.
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+Waiting for other players place action orders...
+Red player :
+--------------
+5 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+3 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+1 unites in Mordor (next to: Scadrial,Hogwarts)
+1 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+1 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+3 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+1 unites in Narnia (next to: Elantris,Midkemia)
+3 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only move between your own territories. The move path must be form by adjacent territories owned by yourself.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to move.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+5 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+6 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+1 unites in Mordor (next to: Scadrial,Hogwarts)
+1 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+1 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+1 unites in Narnia (next to: Elantris,Midkemia)
+3 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only move between your own territories. The move path must be form by adjacent territories owned by yourself.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to move.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+5 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+9 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+1 unites in Mordor (next to: Scadrial,Hogwarts)
+1 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+1 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+1 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Oz (next to: Midkemia,Scadrial)
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+You can only attack directly adjacent territories.
+Please enter the original territory (letter case is no matter).
+Please enter the number of units you want to attack.
+Please enter the destination territory (letter case is no matter).
+Red player :
+--------------
+5 unites in Elantris (next to: Narnia,Midkemia,Scadrial,Roshar)
+Green player :
+--------------
+0 unites in Scadrial (next to: Elantris,Midkemia,Oz,Mordor,Hogwarts,Roshar)
+1 unites in Mordor (next to: Scadrial,Hogwarts)
+1 unites in Hogwarts (next to: Mordor,Scadrial,Roshar)
+1 unites in Midkemia (next to: Narnia,Elantris,Scadrial,Oz)
+0 unites in Roshar (next to: Elantris,Scadrial,Hogwarts)
+1 unites in Narnia (next to: Elantris,Midkemia)
+0 unites in Oz (next to: Midkemia,Scadrial)
+In this turn, you have been:
+Attack Elantris with 9 units.
+You are the Green player, what would you like to do?
+(M)ove
+(A)ttack
+(D)one
+Waiting for other players place action orders...
+*************************
+In last turn, you got Elantris.
+*************************
+Congratulations! you win!
+Game Over. The Winner of game 5000 is player Green.
+Shutting down ...

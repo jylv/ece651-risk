@@ -1,0 +1,114 @@
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1001 joins the game 5000.
+Player 1000 SETUP : 2
+Player 1001 SETUP : 2
+Player 1001 continue at status: SETUP
+Player 1000 continue at status: SETUP
+Player 1001 next phase: initiate unit.
+Player 1000 next phase: initiate unit.
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1001 joins the game 5000.
+Player 1000 SETUP : 2
+Player 1001 SETUP : 2
+Player 1001 continue at status: SETUP
+Player 1000 continue at status: SETUP
+Player 1001 next phase: initiate unit.
+Player 1000 next phase: initiate unit.
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1000 SETUP : 1
+Player 1001 joins the game 5000.
+Player 1001 SETUP : 2
+Player 1000 continue at status: SETUP
+Player 1001 continue at status: SETUP
+Player 1001 next phase: initiate unit.
+Player 1000 next phase: initiate unit.
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1000 SETUP : 1
+Player 1001 joins the game 5000.
+Player 1001 SETUP : 2
+Player 1000 continue at status: SETUP
+Player 1001 continue at status: SETUP
+Player 1001 next phase: initiate unit.
+Player 1000 next phase: initiate unit.
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1000 SETUP : 1
+Player 1001 joins the game 5000.
+Player 1001 SETUP : 2
+<<<<<<< HEAD
+Player 1000 continue at status: SETUP
+Player 1001 continue at status: SETUP
+=======
+Player 1001 continue at status: SETUP
+Player 1000 continue at status: SETUP
+>>>>>>> a2aa3257d4d9010810c6766e77d2b4fc9c1329e0
+Player 1000 next phase: initiate unit.
+Player 1001 next phase: initiate unit.
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1000 SETUP : 1
+Player 1001 joins the game 5000.
+Player 1001 SETUP : 2
+<<<<<<< HEAD
+Player 1000 continue at status: SETUP
+Player 1001 continue at status: SETUP
+Player 1000 next phase: initiate unit.
+Player 1001 next phase: initiate unit.
+=======
+Player 1001 continue at status: SETUP
+Player 1000 continue at status: SETUP
+Player 1000 next phase: initiate unit.
+Player 1001 next phase: initiate unit.
+server actual output:
+Server start failed!
+server actual output:
+Server start failed!
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1000 SETUP : 1
+Player 1001 joins the game 5000.
+Player 1001 SETUP : 2
+Player 1001 continue at status: SETUP
+Player 1000 continue at status: SETUP
+Player 1001 next phase: initiate unit.
+Player 1000 next phase: initiate unit.
+server actual output:
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+Player 1000 creates a new game 5000.
+Player 1000 joins the game 5000.
+Player 1000 SETUP : 1
+Player 1001 joins the game 5000.
+Player 1001 SETUP : 2
+Player 1001 continue at status: SETUP
+Player 1000 continue at status: SETUP
+Player 1001 next phase: initiate unit.
+Player 1000 next phase: initiate unit.
+>>>>>>> a2aa3257d4d9010810c6766e77d2b4fc9c1329e0
+server actual output:
+Server start failed!
+server actual output:
+Server start failed!
+server actual output:

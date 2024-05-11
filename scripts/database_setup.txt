@@ -1,0 +1,32 @@
+
+CREATE TABLE `user` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `username` varchar(100) NOT NULL UNIQUE,
+  `password` varchar(100) NOT NULL,
+  `islogin` tinyint default 0,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO user ( username, password ) VALUES ( "root", "root" );
+
+CREATE USER 'Jade'@'50.52.186.168' IDENTIFIED BY 'password';
+CREATE USER 'Jade'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'Jade'@'vcm-25437.vm.duke.edu' IDENTIFIED BY 'password';
+CREATE USER 'Jade'@'vcm-25567.vm.duke.edu' IDENTIFIED BY 'password';
+
+CREATE USER 'Jade'@'vcm-25264.vm.duke.edu' IDENTIFIED BY 'password';  for ian
+CREATE USER 'Jade'@'107.15.38.100' IDENTIFIED BY 'password';  for huilin
+GRANT ALL PRIVILEGES ON *.* TO 'Jade'@'50.52.186.168' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'Jade'@'localhost' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'Jade'@'vcm-25437.vm.duke.edu' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'Jade'@'vcm-25264.vm.duke.edu' WITH GRANT OPTION;  for ian
+GRANT ALL PRIVILEGES ON *.* TO 'Jade'@'vcm-25567.vm.duke.edu' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'Jade'@'107.15.38.100' WITH GRANT OPTION;  for huilin
+FLUSH PRIVILEGES;
+sudo systemctl start mysql.service
+systemctl status mysql.service
+
+SHOW VARIABLES LIKE 'validate_password%';
+SET GLOBAL validate_password.policy = 0;
+
+drop table user;

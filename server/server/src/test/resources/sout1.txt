@@ -1,0 +1,5 @@
+Starting the server at : 0.0.0.0/0.0.0.0:8888
+The following client has connected: 127.0.0.1
+Connected with player 1000.
+Player 1000 accidentally leave the game.
+LT CHARSET=utf8;
